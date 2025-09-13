@@ -18,7 +18,7 @@ Dữ liệu được lưu trữ vào **LocalStorage**, giúp người dùng khô
 
 ## Screenshots
 
-![Màn hình chính](assets/app.png)
+![Màn hình chính](./todo-app/src/assets/app.png)
 
 ---
 
